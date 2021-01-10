@@ -289,6 +289,10 @@
 .footer .social-media i{
   padding:10px;
 }
+
+.footer .social-media a{
+    text-decoration:none;
+}
 .footer #copyright{
   text-align: center;
 
