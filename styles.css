@@ -288,14 +288,9 @@
 }
 .footer .social-media i{
   padding:10px;
-}
-
-.footer .social-media a:link{
-    color:grey;
-}
-.footer .social-media a:hover{
     color:whitesmoke;
 }
+
 .footer #copyright{
   text-align: center;
 
